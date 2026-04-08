@@ -1,0 +1,235 @@
+description,amount,type,category,transaction_date
+Café Central,127.46,DEBIT,Transportes,2025-07-07
+Spotify,209.01,DEBIT, Habitação,2026-03-14
+Aldi,149.27,DEBIT,transporte,2026-01-23
+McDonald's,74.71,DEBIT,RESTAURANTES,2025-04-18
+Steam,187.38,DEBIT,RESTAURANTES,2025-10-18
+CP - Comboios,246.02,DEBIT,Supermercado,2025-09-08
+Amazon,23.84,DEBIT,RESTAURANTES,2026-01-15
+Udemy,219.51,DEBIT,Outros,2025-08-04
+Óptica Nova,214.29,DEBIT,Vestuário,2026-03-08
+Coursera,96.1,DEBIT,Vestuário,2025-04-15
+Cinema NOS,199.44,DEBIT,Supermercado,2026-03-11
+Mango,42.83,DEBIT,Serviços,2025-06-02
+McDonald's,74.71,DEBIT,RESTAURANTES,2025-04-18
+Netflix,228.33,DEBIT, Habitação,2025-05-17
+Steam,9.16,DEBIT,saude,2026-01-04
+Mango,159.63,DEBIT,Saúde,2025-11-12
+Condomínio,221.4,DEBIT,Serviços,2025-04-13
+CP - Comboios,215.39,DEBIT,invest,2025-09-25
+Spotify,38.1,DEBIT,supermercado,2026-03-14
+Burger King,170.76,DEBIT,Lazer,2025-05-26
+Hospital CUF,19.31,DEBIT,,2026-03-28
+Transferência,49.69,DEBIT,,2025-04-19
+Intermarché,87.73,DEBIT,Saúde,2025-09-14
+FNAC,32.02,DEBIT,,2025-11-26
+Café Central,238.63,DEBIT,Outros,2026-03-13
+XTB,149.78,DEBIT,Transportes,2025-05-13
+CP - Comboios,184.67,DEBIT,transporte,2025-08-06
+eBay,30.46,DEBIT,,2026-01-14
+Café Central,102.78,DEBIT,supermercado,2025-08-28
+Netflix,219.34,DEBIT,Transportes,2025-04-19
+Águas de Lisboa,212.69,DEBIT,Transportes,2025-11-01
+Águas de Lisboa,34.46,DEBIT,Vestuário,2025-07-13
+Hospital CUF,234.01,DEBIT,servicos,2025-06-24
+CP - Comboios,237.04,DEBIT,lazer ,2025-11-19
+NOS Comunicações,220.4,DEBIT,RESTAURANTES,2025-10-28
+Salário,1435.1,CREDIT,Outros,2026-01-03
+Uber,122.08,DEBIT,Serviços,2025-12-24
+eBay,82.42,DEBIT,servicos,2025-04-22
+Cinema NOS,237.12,DEBIT,servicos,2025-12-17
+NOS Comunicações,240.11,DEBIT,Investimentos,2026-01-20
+ISCTE,138.5,DEBIT,supermercado,2025-12-24
+ISCTE,57.73,DEBIT,Supermercado,2026-01-03
+ISCTE,53.29,DEBIT,saude,2025-10-02
+EDP,120.24,DEBIT,Restaurantes,2025-07-19
+ISCTE,111.63,DEBIT,supermercado,2026-01-21
+Coursera,96.1,DEBIT,Vestuário,2025-04-15
+NOS Comunicações,92.43,DEBIT,Lazer,2025-08-10
+XTB,226.9,DEBIT, Habitação,2025-10-27
+Spotify,175.89,DEBIT,Outros,2025-12-20
+Salário,1680.1,CREDIT,Outros,2025-12-02
+Óptica Nova,198.65,DEBIT,lazer ,2025-12-15
+XTB,9.12,DEBIT,,2025-12-11
+Águas de Lisboa,64.35,DEBIT,saude,2025-12-10
+MEO,118.43,DEBIT,invest,2026-03-03
+Dentista Silva,202.03,DEBIT,,2025-09-08
+Farmácia Bem-Estar,110.14,DEBIT,Educação,2025-09-23
+Coursera,217.38,DEBIT,Investimentos,2025-12-21
+Cinema NOS,67.59,DEBIT,,2025-07-05
+MEO,79.31,DEBIT,Serviços,2025-05-23
+Vodafone,111.56,DEBIT,,2025-09-15
+NOS Comunicações,158.1,DEBIT,lazer ,2026-01-19
+Aldi,205.88,DEBIT,Educação,2026-01-04
+XTB,101.11,DEBIT,Serviços,2025-09-16
+Amazon,18.97,DEBIT,lazer ,2026-03-20
+Levantamento ATM,232.4,DEBIT,Investimentos,2025-07-11
+Mango,181.17,DEBIT,Saúde,2026-03-01
+Burger King,201.42,DEBIT,transporte,2025-09-06
+Pizza Hut,249.62,DEBIT,Supermercado,2025-07-20
+Salário,1247.44,CREDIT,Outros,2025-08-03
+CP - Comboios,219.21,DEBIT,saude,2025-05-24
+Salário,1587.14,CREDIT,Outros,2025-10-04
+XTB,235.8,DEBIT,RESTAURANTES,2025-10-01
+BP,108.07,DEBIT,saude,2025-08-23
+Netflix,106.81,DEBIT,Supermercado,2025-04-23
+Lidl,196.71,DEBIT,RESTAURANTES,2025-06-26
+H&M,111.09,DEBIT,invest,2025-10-09
+Nando's,145.51,DEBIT,Habitação,2025-11-04
+Pizza Hut,188.12,DEBIT,Educação,2025-12-08
+Degiro,52.66,DEBIT, Habitação,2025-07-09
+CTT,209.06,DEBIT,Educação,2025-11-09
+ISCTE,15.44,DEBIT,Supermercado,2026-01-14
+Farmácia Bem-Estar,39.79,DEBIT,Serviços,2025-11-20
+eBay,94.73,DEBIT,Investimentos,2025-05-05
+McDonald's,70.94,DEBIT,Vestuário,2025-04-13
+Pizza Hut,19.16,DEBIT,Transportes,2025-05-27
+Spotify,74.79,DEBIT,invest,2025-05-04
+Banco Best,177.54,DEBIT,Vestuário,2025-06-03
+EDP,225.08,DEBIT,transporte,2025-09-13
+Dentista Silva,194.86,DEBIT,invest,2025-10-25
+Vodafone,2.64,DEBIT,Outros,2026-03-27
+Mango,71.08,DEBIT,Lazer,2025-06-06
+Hospital CUF,207.0,DEBIT,invest,2026-01-09
+Burger King,78.29,DEBIT,Restaurantes,2026-01-26
+Transferência,123.16,DEBIT,invest,2025-08-17
+McDonald's,139.37,DEBIT,Outros,2025-06-19
+MEO,106.27,DEBIT,Investimentos,2025-09-07
+Steam,235.48,DEBIT,,2025-11-13
+Pingo Doce,244.99,DEBIT,Outros,2025-08-21
+McDonald's,9.7,DEBIT,invest,2025-11-25
+Pull & Bear,215.47,DEBIT, Habitação,2025-05-18
+XTB,9.12,DEBIT,,2025-12-11
+Mango,47.01,DEBIT, Habitação,2026-01-09
+XTB,118.24,DEBIT,Investimentos,2026-01-04
+Salário,1547.6,CREDIT,Outros,2025-04-01
+ISCTE,9.39,DEBIT,Transportes,2025-04-02
+Aldi,70.62,DEBIT,Transportes,2025-08-27
+XTB,196.59,DEBIT,,2025-06-08
+Spotify,103.28,DEBIT, Habitação,2025-09-22
+Udemy,35.07,DEBIT,Vestuário,2025-10-15
+Pull & Bear,152.26,DEBIT,Educação,2025-11-06
+Fnac Livros,243.63,DEBIT,Lazer,2025-12-02
+Farmácia Bem-Estar,49.9,DEBIT,Vestuário,2025-08-22
+Revolut,42.3,DEBIT,Lazer,2025-08-28
+Degiro,208.49,DEBIT, Habitação,2025-12-04
+Condomínio,90.0,DEBIT,Habitação,2025-12-07
+Coursera,108.96,DEBIT,servicos,2025-09-12
+Coursera,119.87,DEBIT,Lazer,2025-05-22
+Zara,57.61,DEBIT,Supermercado,2025-11-12
+Udemy,21.87,DEBIT,Habitação,2025-07-17
+XTB,56.39,DEBIT,transporte,2025-05-12
+Mango,66.28,DEBIT,Habitação,2025-10-15
+MEO,241.28,DEBIT,RESTAURANTES,2026-03-16
+Amazon,108.3,DEBIT,Supermercado,2025-11-21
+Zara,219.92,DEBIT,Supermercado,2025-05-12
+Burger King,73.77,DEBIT,Restaurantes,2025-04-25
+Hospital CUF,174.9,DEBIT,Transportes,2025-11-04
+H&M,197.38,DEBIT,Transportes,2026-01-09
+Netflix,85.48,DEBIT,Lazer,2025-04-25
+Continente,221.43,DEBIT,,2025-05-22
+Hospital CUF,174.9,DEBIT,Transportes,2025-11-04
+Levantamento ATM,113.4,DEBIT,servicos,2025-04-08
+Coursera,59.35,DEBIT,Transportes,2025-10-05
+BP,150.54,DEBIT,servicos,2025-05-01
+Netflix,177.33,DEBIT,Restaurantes,2026-01-10
+BP,169.45,DEBIT,Transportes,2025-07-03
+Coursera,56.42,DEBIT,,2025-10-16
+NOS Comunicações,43.26,DEBIT,Saúde,2026-03-15
+MEO,131.6,DEBIT,,2026-01-25
+CP - Comboios,93.64,DEBIT,supermercado,2025-07-08
+Burger King,165.79,DEBIT,Serviços,2026-01-09
+Banco Best,165.03,DEBIT,Restaurantes,2025-07-14
+Burger King,167.91,DEBIT, Habitação,2025-06-09
+ISCTE,206.78,DEBIT,lazer ,2025-12-14
+Salário,1416.04,CREDIT,Outros,2025-06-02
+CP - Comboios,103.08,DEBIT,Serviços,2025-10-14
+Galp,189.43,DEBIT, Habitação,2025-05-03
+Pingo Doce,141.58,DEBIT,Lazer,2026-01-26
+Cinema NOS,102.24,DEBIT,Outros,2026-01-25
+Fnac Livros,139.03,DEBIT,Restaurantes,2025-08-19
+Transferência,225.1,DEBIT,invest,2025-05-15
+Galp,124.88,DEBIT,Outros,2026-01-23
+NOS Comunicações,165.43,DEBIT,Serviços,2025-06-04
+Salário,1282.85,CREDIT,Outros,2025-09-05
+Pull & Bear,147.95,DEBIT,saude,2026-01-28
+Continente,215.19,DEBIT,Vestuário,2025-06-02
+Degiro,108.24,DEBIT,Restaurantes,2025-11-18
+Burger King,173.56,DEBIT,Investimentos,2025-12-13
+Farmácia Bem-Estar,51.31,DEBIT,Vestuário,2025-04-18
+Levantamento ATM,225.49,DEBIT,Serviços,2025-09-26
+Udemy,249.82,DEBIT,Saúde,2025-06-21
+Zara,96.02,DEBIT,Habitação,2025-11-09
+BP,87.59,DEBIT,saude,2026-03-16
+Salário,1247.44,CREDIT,Outros,2025-08-03
+BP,217.69,DEBIT, Habitação,2026-03-11
+Continente,101.85,DEBIT,,2025-06-02
+Nando's,186.23,DEBIT,Serviços,2025-12-04
+Continente,226.17,DEBIT,Saúde,2025-08-23
+Cinema NOS,219.75,DEBIT,Vestuário,2025-05-08
+McDonald's,212.18,DEBIT,RESTAURANTES,2025-04-12
+XTB,221.76,DEBIT,Transportes,2025-09-14
+EDP,71.22,DEBIT,Educação,2025-08-25
+Pingo Doce,63.88,DEBIT,supermercado,2025-08-22
+Mango,37.87,DEBIT,Vestuário,2026-03-18
+ISCTE,233.35,DEBIT,servicos,2026-03-15
+Dentista Silva,205.49,DEBIT,saude,2025-08-10
+Banco Best,115.94,DEBIT,Educação,2025-04-24
+eBay,90.11,DEBIT,supermercado,2025-04-12
+Salário,1505.43,CREDIT,Outros,2025-07-05
+Lidl,34.49,DEBIT,Serviços,2026-01-18
+Zara,148.79,DEBIT,Lazer,2025-11-13
+Continente,80.23,DEBIT,Vestuário,2025-04-26
+Spotify,76.96,DEBIT,Vestuário,2025-12-06
+Amazon,204.64,DEBIT, Habitação,2025-07-22
+Salário,1688.98,CREDIT,Outros,2026-03-01
+Dentista Silva,190.78,DEBIT,saude,2025-11-11
+Amazon,168.73,DEBIT,,2026-01-25
+Transferência,187.2,DEBIT,,2026-03-08
+Farmácia Bem-Estar,63.06,DEBIT,RESTAURANTES,2025-07-19
+Pingo Doce,102.79,DEBIT,Transportes,2025-06-06
+Transferência,204.97,DEBIT,,2025-09-03
+Galp Gás,49.17,DEBIT,Saúde,2025-06-07
+XTB,118.56,DEBIT,transporte,2026-01-03
+Netflix,140.4,DEBIT,Transportes,2026-01-04
+Vodafone,27.94,DEBIT,Outros,2026-01-22
+Vodafone,24.65,DEBIT,Outros,2026-01-01
+ISCTE,53.29,DEBIT,saude,2025-10-02
+Burger King,233.3,DEBIT,invest,2026-03-16
+Zara,72.52,DEBIT,Saúde,2025-12-19
+Bolt,242.24,DEBIT,Serviços,2025-06-07
+Condomínio,216.23,DEBIT,transporte,2025-06-15
+McDonald's,118.73,DEBIT,RESTAURANTES,2025-08-28
+BP,67.16,DEBIT,Vestuário,2025-05-18
+FNAC,180.17,DEBIT,transporte,2025-06-22
+FNAC,119.37,DEBIT,,2025-12-12
+Coursera,45.42,DEBIT,transporte,2026-03-06
+Spotify,135.92,DEBIT,RESTAURANTES,2026-01-17
+Cinema NOS,189.55,DEBIT,,2026-01-25
+NOS Comunicações,85.36,DEBIT,lazer ,2025-10-13
+Fnac Livros,218.36,DEBIT,Habitação,2025-05-17
+Pizza Hut,139.68,DEBIT,Vestuário,2025-12-16
+FNAC,100.58,DEBIT,Outros,2026-03-23
+Hospital CUF,27.42,DEBIT,Vestuário,2025-04-24
+Óptica Nova,215.61,DEBIT,Transportes,2025-06-26
+Bolt,202.43,DEBIT, Habitação,2025-12-20
+Salário,1575.4,CREDIT,Outros,2025-11-04
+Degiro,62.88,DEBIT,Educação,2025-12-28
+NOS Comunicações,73.15,DEBIT,servicos,2025-09-10
+Transferência,212.31,DEBIT,Outros,2025-09-22
+Pull & Bear,223.07,DEBIT,,2025-10-25
+Galp Gás,41.48,DEBIT,transporte,2025-08-09
+eBay,41.28,DEBIT,,2026-01-23
+Burger King,71.88,DEBIT,servicos,2025-07-09
+Vodafone,119.3,DEBIT,Restaurantes,2026-03-24
+FNAC,123.43,DEBIT,,2026-03-22
+Spotify,81.29,DEBIT,Vestuário,2025-10-11
+XTB,235.8,DEBIT,RESTAURANTES,2025-10-01
+Salário,1550.0,CREDIT,Outros,2025-05-02
+Salário,1406.43,CREDIT,Outros,2026-01-05
+BP,77.02,DEBIT,saude,2025-07-23
+CP - Comboios,129.83,DEBIT,,2025-09-10
+Amazon,159.47,DEBIT,Educação,2025-04-20
+Levantamento ATM,245.33,DEBIT, Habitação,2025-08-22
+Uber,20.62,DEBIT,Vestuário,2026-01-18
+MEO,143.14,DEBIT,,2025-09-20
