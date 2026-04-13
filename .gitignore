@@ -2,6 +2,7 @@
 backend/target/
 *.class
 *.jar
+backend/src/main/resources/application-local.yml
 
 # Python
 __pycache__/

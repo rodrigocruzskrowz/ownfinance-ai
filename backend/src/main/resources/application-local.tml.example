@@ -1,0 +1,15 @@
+# Usage: Copy this file to a new application-local.yml file and replace the placeholders with your actual values.
+
+spring:
+  datasource:
+    username: YOUR_DB_USERNAME_HERE
+    password: YOUR_DB_PASSWORD_HERE
+
+  jpa:
+    show-sql: true
+
+app:
+  jwt:
+    secret: YOUR_JWT_SECRET_HERE
+  openai:
+    api-key: YOUR_OPENAI_API_KEY_HERE
