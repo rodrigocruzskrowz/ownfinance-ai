@@ -39,4 +39,9 @@ public class User {
     @UpdateTimestamp
     @Column(name = "updated_at")
     private OffsetDateTime updatedAt;
+
+    public String getFirstName() {
+        if (fullName == null || fullName.isBlank()) return "";
+        return fullName.split(" ")[0];
+    }
 }
