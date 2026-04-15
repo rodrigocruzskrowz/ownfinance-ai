@@ -52,4 +52,12 @@ public class GlobalExceptionHandler {
         problem.setTitle("Unauthorized");
         return problem;
     }
+
+    @ExceptionHandler(SecurityException.class)
+    public ProblemDetail handleSecurity(SecurityException ex) {
+        ProblemDetail problem = ProblemDetail.forStatusAndDetail(
+                HttpStatus.FORBIDDEN, ex.getMessage());
+        problem.setTitle("Access denied");
+        return problem;
+    }
 }

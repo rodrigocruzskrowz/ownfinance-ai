@@ -17,7 +17,15 @@ import java.util.UUID;
 @Repository
 public interface TransactionRepository extends JpaRepository<Transaction, UUID> {
 
-    Page<Transaction> findByUserOrderByTransactionDateDesc(User user, Pageable pageable);
+    @Query("""
+        SELECT t FROM Transaction t
+        LEFT JOIN FETCH t.category
+        WHERE t.user = :user
+        ORDER BY t.transactionDate DESC
+        """)
+    Page<Transaction> findByUserWithCategory(
+            @Param("user") User user,
+            Pageable pageable);
 
     List<Transaction> findByUserAndTransactionDateBetweenOrderByTransactionDateDesc(
             User user,
