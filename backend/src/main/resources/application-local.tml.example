@@ -11,5 +11,7 @@ spring:
 app:
   jwt:
     secret: YOUR_JWT_SECRET_HERE
-  openai:
-    api-key: YOUR_OPENAI_API_KEY_HERE
+  ai:
+    api-key: YOUR_API_KEY_HERE
+    api-url: YUR_API_URL_HERE
+    model: YOUR_MODEL_NAME_HERE
