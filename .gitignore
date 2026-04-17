@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 pipeline/.venv/
 pipeline/.env
+infra/flyway.sh
 
 # Environment
 .env
