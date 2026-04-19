@@ -2,6 +2,18 @@ spring:
   application:
     name: ownfinance-backend
 
+  springdoc:
+    api-docs:
+      path: /v3/api-docs
+    swagger-ui:
+      path: /swagger-ui.html
+      operations-sorter: method
+      tags-sorter: alpha
+    info:
+      title: OwnFinance AI API
+      description: API de Gestão Financeira com IA
+      version: 1.0.0
+
   datasource:
     url: jdbc:postgresql://${POSTGRES_HOST:localhost}:${POSTGRES_PORT:5432}/${POSTGRES_DB:ownfinance}
     username: ${POSTGRES_USER}
